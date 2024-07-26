@@ -3,7 +3,9 @@ Project by Rehan Ali
 Contact: rehanalikhan4790@gmail.com
 
 **Overview**
-**LOCAL JARVIS** is an interactive web application designed to provide an AI-powered chat interface for answering questions and analyzing uploaded images. Utilizing the TinyLlama and Moondream models, the application offers both text generation and image analysis capabilities. This application leverages the power of Streamlit for the web interface, alongside the Transformers library for natural language processing tasks.
+**LOCAL JARVIS** is an interactive web application designed to provide an AI-powered chat interface for answering questions and analyzing uploaded images. 
+Utilizing the TinyLlama and Moondream models, the application offers both text generation and image analysis capabilities.
+This application leverages the power of Streamlit for the web interface, alongside the Transformers library for natural language processing tasks.
 
 **Features**
 Text-Based Interaction: Ask questions and get responses using the TinyLlama model.
