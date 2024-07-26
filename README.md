@@ -26,7 +26,7 @@ Installation
 **Clone the repository**:
 
 
-git clone https://github.com/your-repo/local-jarvis.git
+git clone https://github.com/rehanali4790/OfflineGPT.git
 cd local-jarvis
 Install the required packages:
 
